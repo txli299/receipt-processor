@@ -12,9 +12,6 @@ A simple receipt processing API built in Go(Fetch take-home excercise).
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
-- [Testing](#testing)
-- [Example Requests](#example-requests)
-- [Troubleshooting](#troubleshooting)
 
 ## Installation
 
